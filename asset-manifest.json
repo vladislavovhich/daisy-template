@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/daisy-template/static/css/main.aceaf6b6.chunk.css",
+    "main.js": "/daisy-template/static/js/main.c49dfd99.chunk.js",
+    "main.js.map": "/daisy-template/static/js/main.c49dfd99.chunk.js.map",
+    "runtime-main.js": "/daisy-template/static/js/runtime-main.0d1a11a2.js",
+    "runtime-main.js.map": "/daisy-template/static/js/runtime-main.0d1a11a2.js.map",
+    "static/css/2.16d7ab90.chunk.css": "/daisy-template/static/css/2.16d7ab90.chunk.css",
+    "static/js/2.4d2c4d6c.chunk.js": "/daisy-template/static/js/2.4d2c4d6c.chunk.js",
+    "static/js/2.4d2c4d6c.chunk.js.map": "/daisy-template/static/js/2.4d2c4d6c.chunk.js.map",
+    "index.html": "/daisy-template/index.html",
+    "precache-manifest.491be505ab11e048d853fdcf26866f98.js": "/daisy-template/precache-manifest.491be505ab11e048d853fdcf26866f98.js",
+    "service-worker.js": "/daisy-template/service-worker.js",
+    "static/css/2.16d7ab90.chunk.css.map": "/daisy-template/static/css/2.16d7ab90.chunk.css.map",
+    "static/css/main.aceaf6b6.chunk.css.map": "/daisy-template/static/css/main.aceaf6b6.chunk.css.map",
+    "static/js/2.4d2c4d6c.chunk.js.LICENSE.txt": "/daisy-template/static/js/2.4d2c4d6c.chunk.js.LICENSE.txt",
+    "static/media/advertising.png": "/daisy-template/static/media/advertising.ca90a6fe.png",
+    "static/media/Expand.scss": "/daisy-template/static/media/expand-bg.4d89d33d.png",
+    "static/media/internal-contentpng.png": "/daisy-template/static/media/internal-contentpng.405bef99.png",
+    "static/media/large-devices.png": "/daisy-template/static/media/large-devices.f214c983.png",
+    "static/media/MainScreen.scss": "/daisy-template/static/media/main-bg.fad3ea52.png",
+    "static/media/portfolio-1.png": "/daisy-template/static/media/portfolio-1.5982776c.png",
+    "static/media/portfolio-2.png": "/daisy-template/static/media/portfolio-2.64cc406c.png",
+    "static/media/portfolio-3.png": "/daisy-template/static/media/portfolio-3.88af4463.png",
+    "static/media/portfolio-4.png": "/daisy-template/static/media/portfolio-4.f80e6974.png",
+    "static/media/portfolio-5.png": "/daisy-template/static/media/portfolio-5.c06de424.png",
+    "static/media/portfolio-6.png": "/daisy-template/static/media/portfolio-6.3f994cff.png",
+    "static/media/team-1.png": "/daisy-template/static/media/team-1.5e21d1d9.png",
+    "static/media/team-2.png": "/daisy-template/static/media/team-2.f5abf578.png",
+    "static/media/team-3.png": "/daisy-template/static/media/team-3.22e6cd59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d1a11a2.js",
+    "static/css/2.16d7ab90.chunk.css",
+    "static/js/2.4d2c4d6c.chunk.js",
+    "static/css/main.aceaf6b6.chunk.css",
+    "static/js/main.c49dfd99.chunk.js"
+  ]
+}
