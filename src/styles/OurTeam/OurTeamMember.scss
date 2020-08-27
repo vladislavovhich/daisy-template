@@ -1,0 +1,36 @@
+.OurTeamMember {
+  .OurTeamMember__name {
+    color: #565656;
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    font-weight: bold;
+
+    .OurTeamMember__redWord {
+      color: #fc645f;
+    }
+  }
+
+  .OurTeamMember__profession {
+    color: #565656;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+  .OurTeamMember__socialWeb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.25rem;
+    width: 2.25rem;
+    border: 1px solid #565656;
+    color: white;
+    background-color: #565656;
+    border-radius: 50%;
+
+    &:hover {
+      border: 1px solid #7b7b7b;
+      background-color: #7b7b7b;
+    }
+  }
+}

@@ -1,0 +1,100 @@
+@media screen and (max-width: 990px) {
+  .MSMidBar {
+    .MSMidBar__header {
+      .MSMidBar__text {
+        font-size: 2.2rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .MSMidBar {
+    .MSMidBar__header {
+      .MSMidBar__text {
+        font-size: 2rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .MSMidBar {
+    .MSMidBar__header {
+      .MSMidBar__text {
+        font-size: 1.8rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .MSMidBar {
+    .MSMidBar__header {
+      .MSMidBar__text {
+        font-size: 1.6rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .MSMidBar {
+    .MSMidBar__header {
+      .MSMidBar__text {
+        font-size: 1.45rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .Expand {
+    .Expand__header {
+      font-size: 2.2rem;
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .Expand {
+    .Expand__header {
+      font-size: 2rem;
+    }
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .Expand {
+    .Expand__header {
+      font-size: 1.8rem;
+    }
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .Expand {
+    .Expand__header {
+      font-size: 1.6rem;
+    }
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .Expand {
+    .Expand__header {
+      font-size: 1.45rem;
+    }
+  }
+}
+
+/* MEDIA FOR PORTFOLIO*/
+
+
+@media screen and (max-width: 776px) {
+  .PMenu {
+    ul {
+      flex-direction: column;
+    }
+  }
+}

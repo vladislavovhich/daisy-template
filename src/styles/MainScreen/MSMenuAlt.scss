@@ -1,0 +1,59 @@
+.MSMenuAlt {
+  position: fixed;
+  right: 0;
+  top: 0;
+  border: 1px solid gray;
+  height: 100vh;
+  background-color: gray;
+  opacity: 0.9;
+  z-index: 1;
+
+  .underline {
+    color: white;
+    border: 1px solid white;
+    height: 0.2rem;
+    background-color: white;
+    width: 100%;
+  }
+
+  ul {
+    list-style: none;
+    opacity: 1;
+
+    a {
+      color: white;
+      text-transform: uppercase;
+      font-family: sans-serif;
+      text-decoration: none;
+      padding: 0.35rem 0;
+      font-size: 1.3rem;
+
+      &:hover {
+        border-bottom: 3px solid #fc645f;
+      }
+    }
+
+    li:not(:first-child) {
+      margin-top: 1rem;
+    }
+  }
+}
+
+.MenuVisible {
+  animation: slideInRight;
+  animation-duration: .5s;
+  right: 0;
+  display: block;
+}
+
+.MenuHide {
+  left: 100%;
+  display: none;
+}
+
+.MenuHidden {
+  left: 100%;
+  animation: slideInLeft;
+  animation-duration: .5s;
+  display: block;
+}

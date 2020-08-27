@@ -1,0 +1,25 @@
+.PMenu {
+  ul {
+    list-style: none;
+
+    a {
+      color: #fc645f;
+      text-transform: uppercase;
+      font-family: sans-serif;
+      font-size: 1.25rem;
+      padding: 0.1rem 0;
+      text-decoration: none;
+
+      &:hover {
+        border-bottom: 3px solid #fc645f;
+      }
+    }
+  }
+
+  .PMenu__underline {
+    border: 1px solid gray;
+    height: 0.2rem;
+    background-color: gray;
+    width: 100%;
+  }
+}

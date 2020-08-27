@@ -1,0 +1,12 @@
+.Header {
+  height: 4.3rem;
+
+  .ShowMenuBtn {
+    font-size: 1.4rem;
+    color: white;
+
+    &:active {
+      color: #dcdada;
+    }
+  }
+}

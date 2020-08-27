@@ -1,0 +1,25 @@
+.WRHeader {
+  .WRHeader__header {
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #868686;
+  }
+
+  .WRHeader__text {
+    font-family: sans-serif;
+    color: #868686;
+    text-align: center;
+    font-size: 1.1rem;
+  }
+
+  .WRHeader__underline {
+    border: 1px solid gray;
+    height: 0.2rem;
+    background-color: gray;
+  }
+
+  .WRHeader__redWord {
+    color: #fc645f;
+  }
+}

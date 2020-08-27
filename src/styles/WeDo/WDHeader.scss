@@ -1,0 +1,19 @@
+.WDHeader {
+  .WDHeader__underline {
+    border: 1px solid gray;
+    height: 0.2rem;
+    background-color: gray;
+    width: 100%;
+  }
+
+  .WDHeader__header {
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #868686;
+  }
+
+  .WDHeader__redWord {
+    color: #fc645f;
+  }
+}

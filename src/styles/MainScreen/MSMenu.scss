@@ -1,0 +1,22 @@
+.MSMenu {
+  ul {
+    list-style: none;
+
+    li:not(:first-child) {
+      margin-left: 1rem;
+    }
+
+    a {
+      color: white;
+      text-transform: uppercase;
+      font-family: sans-serif;
+      text-decoration: none;
+      padding: 0.35rem 0;
+      font-size: 0.975rem;
+
+      &:hover {
+        border-bottom: 3px solid #fc645f;
+      }
+    }
+  }
+}

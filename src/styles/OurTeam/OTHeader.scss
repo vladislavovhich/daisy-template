@@ -1,0 +1,20 @@
+.OTHeader {
+  .OTHeader__underline {
+    border: 1px solid gray;
+    height: 0.2rem;
+    background-color: gray;
+    width: 100%;
+  }
+
+  .OTHeader__header {
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #868686;
+    text-transform: uppercase;
+  }
+
+  .OTHeader__redWord {
+    color: #fc645f;
+  }
+}

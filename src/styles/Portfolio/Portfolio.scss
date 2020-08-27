@@ -1,0 +1,17 @@
+.Portfolio {
+  .Portfolio__btn {
+    height: 3rem;
+    padding: 0 1.25rem;
+    border-radius: 8px;
+    outline: none;
+    background-color: rgb(252, 99, 94);
+    border: 1px solid rgb(252, 99, 94);
+    font-size: 1.25rem;
+    color: rgb(255, 255, 255);
+
+    &:active {
+      border: 0.125rem solid #f69390;
+      background-color: #f69390;
+    }
+  }
+}

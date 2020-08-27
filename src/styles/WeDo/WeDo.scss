@@ -1,0 +1,47 @@
+.WeDo {
+  background-color: #f2f2f2;
+
+  .WeDo__header {
+    font-size: 1.75rem;
+    color: rgb(134, 134, 134);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+
+    .WeDo__redBlock {
+      width: 0.75rem;
+      height: 2.35rem;
+      border: 1px solid #fc645f;
+      background: #fc645f;
+    }
+  }
+
+  .WeDo__img {
+    max-width: 100%;
+  }
+
+  .WeDo__text {
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: rgb(158, 152, 152);
+    line-height: 1.599;
+    text-align: left;
+  }
+
+  .WeDo__btn {
+    width: 10rem;
+    height: 3rem;
+    outline: none;
+    font-size: 1.25rem;
+    font-family: sans-serif;
+    color: white;
+    border-radius: 0.43rem;
+    border: 1px solid #fc645f;
+    background-color: rgb(252, 99, 94);
+
+    &:active {
+      border: 0.125rem solid #f69390;
+      background-color: #f69390;
+    }
+  }
+}
